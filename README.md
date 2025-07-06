@@ -22,4 +22,9 @@ The project involves various analysis tasks, including;
 ### Insights and Recommendation
 The analysis provides insights into product performance, customer engagement, and market trends. The findings can be used to inform product improvement, marketing strategies, and customer engagement initiatives.
 ### Analysis
-
+## Dashboard
+![Dashboard Screenshot](DASHBOARD.png)
+## Pivot Tables
+![Pivot Tables Screenshot](PIVOTTABLES.png)
+## Data
+![Data Screenshot](DATA.png)
